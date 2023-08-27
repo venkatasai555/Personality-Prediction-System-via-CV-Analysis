@@ -14,5 +14,34 @@ The Personality Prediction System via CV Analysis is an innovative project that 
 - Provides insights into how language and patterns correlate with personality traits.
 - Empowers recruiters and organizations to make more informed hiring choices.
 
+#Getting Started
+To get started with this project, you will need to have the following installed:
+
+Python 3
+The scikit-learn library
+The XGBoost library
+Once you have installed the necessary dependencies, you can clone the repository and start working on the code.
+
+#Usage
+To use the personality prediction system, you will need to provide a CV in the CSV format. The CV should contain the following columns:
+
+Name
+Email
+Education
+Work Experience
+Skills
+Interests
+Once you have provided a CV, you can run the predict_personality.py script to predict the personality type of the person who wrote the CV. The script will output the predicted personality type to the console.
+
+#Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+#License
+This project is licensed under the MIT License.
+
+#Contact
+If you have any questions about this project, please contact me at saievenkata@gmail.com
+
+Thanks For Visiting..
 
 
